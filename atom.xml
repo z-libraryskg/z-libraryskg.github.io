@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ZLibrary入口镜像网址及官网网站持续更新</title>
+  
+  <subtitle>关于zlibrary镜像、chrome插件、程序开发的日志</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2025-02-08</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>ZLibrary入口镜像网址及官网网站持续更新</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ZLibrary入口镜像网址及官网网站持续更新</title>
+    <link href="http://example.com/p/z-library.html"/>
+    <id>http://example.com/p/z-library.html</id>
+    <published>2025-02-08</published>
+    <updated>2025-02-08</updated>
+    
+    
+    <summary type="html">&lt;p&gt;全球知名的数字图书馆 Z-Library，大家习惯叫它 Z-Lib，它最早叫 BookFinder。这座数字知识殿堂，馆藏丰富得超乎想象，有 1046 万余册图书，学术文章更是多达 8484 万篇。自 2009 年诞生起，Z-Library 就坚定地践行着为大众免费提供电子书籍资源的使命，让无数人受益。然而，Z-Library 的发展之路充满坎坷。因各种复杂因素，它屡次受限。2024 年 5 月，国内的 Z-Library 宣传渠道突然全面中断。这一变化，让网络生态陷入混乱。一时间，众多打着 Z-Library 名号的假冒网站大量涌现，这些欺诈性网站犹如隐藏在暗处的陷阱，给用户带来信息泄露、财产受损等诸多风险，严重影响了用户体验。&lt;/p&gt;</summary>
+ 
+    
+    
+    <category term="ZLibrary入口镜像网址及官网网站持续更新" scheme="http://example.com/categories/z-library%E6%95%B0%E5%AD%97%E5%9B%BE%E4%B9%A6%E9%A6%86/"/>
+    
+    
+    <category term="z-library" scheme="http://example.com/tags/z-library/"/>
+    
+  </entry>
+  
+</feed>
